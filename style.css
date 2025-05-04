@@ -30,7 +30,7 @@ body {
 }
 @media (max-width: 767px){
     .theSkyMove .hudhod {
-        font-size: 10px;
+        font-size: 5px;
     }
 }
 .theSkyMove #moon {
